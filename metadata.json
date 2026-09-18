@@ -1,6 +1,6 @@
 {
-  "name": "Especificación y Prompt de Réplica - Logística Calma Pura",
-  "description": "Análisis técnico exhaustivo y prompt de producción para replicar la plataforma y landing de Planilla de Tarifa & Costo de Transporte.",
+  "name": "Planilla de Tarifa & Costo de Transporte 2026",
+  "description": "Simulador interactivo de costos y tarifas de transporte de carga y movimiento de suelo con camiones volcadores y bateas (cotización por m3, viaje, tonelada y hora en obra).",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
