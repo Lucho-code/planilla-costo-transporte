@@ -1,0 +1,6 @@
+{
+  "name": "Especificación y Prompt de Réplica - Logística Calma Pura",
+  "description": "Análisis técnico exhaustivo y prompt de producción para replicar la plataforma y landing de Planilla de Tarifa & Costo de Transporte.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
